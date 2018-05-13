@@ -1,2 +1,2 @@
 # Madebyglo.com
-*Code for my personal website*
+*Code for my madebyglo.com*
